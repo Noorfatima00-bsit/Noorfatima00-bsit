@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there, I'm Noor Fatima 👋
 
-<!--
-**Noorfatima00-bsit/Noorfatima00-bsit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BS-IT Undergrad at GCUF | Backend & Systems Engineering Enthusiast
+⚡ Passionate about building robust backend architectures, optimized databases, and algorithmic logic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+* **Languages & Core:** Python, C++, x86 Assembly
+* **Backend & Databases:** MySQL, PostgreSQL, PHP, RESTful APIs
+* **Mobile & Web:** Flutter, Dart, HTML/CSS, Tailwind (Glassmorphism UI)
+* **Tools & Environment:** Git, GitHub, VS Code, Windows CLI
+
+---
+
+### 📊 Current Focus
+* Mastering advanced **Data Structures & Algorithms (DSA)** for high-performance software engineering.
+* Building scalable backend systems and exploring Python-based AI integrations.
+* Preparing for software engineering internships at top-tier tech companies.
+
+---
+
+### 🌐 Connect With Me
+* **LinkedIn:** [Your LinkedIn Profile Link]
+* **Email:** [Your Email Address]
