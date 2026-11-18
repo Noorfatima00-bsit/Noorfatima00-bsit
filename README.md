@@ -21,5 +21,5 @@
 ---
 
 ### 🌐 Connect With Me
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Email Address]
+* **LinkedIn:** [www.linkedin.com/in/noor-fatima-445b3a408]
+* **Email:** [noorfatimahskt@gmail.com]
